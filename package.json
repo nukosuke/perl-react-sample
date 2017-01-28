@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/nukosuke/perl-react-sample/issues"
   },
-  "homepage": "https://github.com/nukosuke/perl-react-sample#readme"
+  "homepage": "https://github.com/nukosuke/perl-react-sample#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
